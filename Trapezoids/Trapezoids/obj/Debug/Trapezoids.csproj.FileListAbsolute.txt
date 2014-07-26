@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.pdb

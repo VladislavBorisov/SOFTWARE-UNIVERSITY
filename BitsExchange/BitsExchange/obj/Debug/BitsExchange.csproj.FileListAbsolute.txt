@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitsExchange\BitsExchange\bin\Debug\BitsExchange.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitsExchange\BitsExchange\bin\Debug\BitsExchange.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitsExchange\BitsExchange\bin\Debug\BitsExchange.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitsExchange\BitsExchange\obj\Debug\BitsExchange.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitsExchange\BitsExchange\obj\Debug\BitsExchange.pdb

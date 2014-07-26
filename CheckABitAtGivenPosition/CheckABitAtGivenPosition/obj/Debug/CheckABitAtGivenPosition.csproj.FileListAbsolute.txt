@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckABitAtGivenPosition\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckABitAtGivenPosition\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckABitAtGivenPosition\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckABitAtGivenPosition\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckABitAtGivenPosition\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb
