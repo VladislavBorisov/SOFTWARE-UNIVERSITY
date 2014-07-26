@@ -1,5 +1,0 @@
-c:\users\sherybedrock\documents\visual studio 2013\Projects\ThirdDigit7\ThirdDigit7\bin\Debug\ThirdDigit7.exe.config
-c:\users\sherybedrock\documents\visual studio 2013\Projects\ThirdDigit7\ThirdDigit7\bin\Debug\ThirdDigit7.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\ThirdDigit7\ThirdDigit7\bin\Debug\ThirdDigit7.pdb
-c:\users\sherybedrock\documents\visual studio 2013\Projects\ThirdDigit7\ThirdDigit7\obj\Debug\ThirdDigit7.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\ThirdDigit7\ThirdDigit7\obj\Debug\ThirdDigit7.pdb

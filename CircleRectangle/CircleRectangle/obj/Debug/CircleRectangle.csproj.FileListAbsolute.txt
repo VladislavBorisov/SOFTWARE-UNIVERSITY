@@ -1,5 +1,0 @@
-c:\users\sherybedrock\documents\visual studio 2013\Projects\CircleRectangle\CircleRectangle\bin\Debug\CircleRectangle.exe.config
-c:\users\sherybedrock\documents\visual studio 2013\Projects\CircleRectangle\CircleRectangle\bin\Debug\CircleRectangle.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\CircleRectangle\CircleRectangle\bin\Debug\CircleRectangle.pdb
-c:\users\sherybedrock\documents\visual studio 2013\Projects\CircleRectangle\CircleRectangle\obj\Debug\CircleRectangle.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\CircleRectangle\CircleRectangle\obj\Debug\CircleRectangle.pdb

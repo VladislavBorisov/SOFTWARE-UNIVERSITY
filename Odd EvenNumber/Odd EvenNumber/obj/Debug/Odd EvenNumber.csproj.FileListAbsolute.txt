@@ -1,6 +1,0 @@
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\bin\Debug\Odd EvenNumber.exe.config
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\bin\Debug\Odd EvenNumber.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\bin\Debug\Odd EvenNumber.pdb
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\obj\Debug\Odd EvenNumber.csprojResolveAssemblyReference.cache
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\obj\Debug\Odd EvenNumber.exe
-c:\users\sherybedrock\documents\visual studio 2013\Projects\Odd EvenNumber\Odd EvenNumber\obj\Debug\Odd EvenNumber.pdb
