@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MoonGRavitation\MoonGRavitation\bin\Debug\MoonGRavitation.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MoonGRavitation\MoonGRavitation\bin\Debug\MoonGRavitation.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MoonGRavitation\MoonGRavitation\bin\Debug\MoonGRavitation.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MoonGRavitation\MoonGRavitation\obj\Debug\MoonGRavitation.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MoonGRavitation\MoonGRavitation\obj\Debug\MoonGRavitation.pdb

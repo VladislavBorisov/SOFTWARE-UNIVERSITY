@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\bin\Debug\РectanglePerimeter.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\obj\Debug\РectanglePerimeter.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\bin\Debug\РectanglePerimeter.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\bin\Debug\РectanglePerimeter.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\obj\Debug\РectanglePerimeter.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\РectanglePerimeter\РectanglePerimeter\obj\Debug\РectanglePerimeter.pdb
