@@ -1,0 +1,8 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SwitchVariables\SwitchVariables\bin\Debug\SwitchVariables.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SwitchVariables\SwitchVariables\bin\Debug\SwitchVariables.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SwitchVariables\SwitchVariables\bin\Debug\SwitchVariables.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SwitchVariables\SwitchVariables\obj\Debug\SwitchVariables.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SwitchVariables\SwitchVariables\obj\Debug\SwitchVariables.pdb
+C:\Users\sherybedrock\Desktop\SwitchVariables\SwitchVariables\bin\Debug\SwitchVariables.exe.config
+C:\Users\sherybedrock\Desktop\SwitchVariables\SwitchVariables\obj\Debug\SwitchVariables.exe
+C:\Users\sherybedrock\Desktop\SwitchVariables\SwitchVariables\obj\Debug\SwitchVariables.pdb

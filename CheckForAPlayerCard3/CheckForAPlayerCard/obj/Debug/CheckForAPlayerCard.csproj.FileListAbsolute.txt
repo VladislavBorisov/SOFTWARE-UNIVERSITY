@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckForAPlayerCard\CheckForAPlayerCard\bin\Debug\CheckForAPlayerCard.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckForAPlayerCard\CheckForAPlayerCard\bin\Debug\CheckForAPlayerCard.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckForAPlayerCard\CheckForAPlayerCard\bin\Debug\CheckForAPlayerCard.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckForAPlayerCard\CheckForAPlayerCard\obj\Debug\CheckForAPlayerCard.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CheckForAPlayerCard\CheckForAPlayerCard\obj\Debug\CheckForAPlayerCard.pdb

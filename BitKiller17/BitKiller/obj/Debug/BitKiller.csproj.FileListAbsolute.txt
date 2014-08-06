@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\bin\Debug\BitKiller.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\bin\Debug\BitKiller.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\bin\Debug\BitKiller.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\obj\Debug\BitKiller.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\obj\Debug\BitKiller.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BitKiller\BitKiller\obj\Debug\BitKiller.pdb

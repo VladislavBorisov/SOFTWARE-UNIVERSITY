@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\obj\Debug\DigitAsWord.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\obj\Debug\DigitAsWord.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DigitAsWord\DigitAsWord\obj\Debug\DigitAsWord.pdb

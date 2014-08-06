@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\bin\Debug\BonusScore2.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\bin\Debug\BonusScore2.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\bin\Debug\BonusScore2.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\obj\Debug\BonusScore2.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\obj\Debug\BonusScore2.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BonusScore2\BonusScore2\obj\Debug\BonusScore2.pdb

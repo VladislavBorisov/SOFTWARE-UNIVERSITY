@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

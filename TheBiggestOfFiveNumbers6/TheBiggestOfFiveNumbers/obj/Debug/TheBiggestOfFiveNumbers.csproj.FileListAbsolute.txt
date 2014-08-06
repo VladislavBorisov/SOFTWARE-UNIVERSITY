@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOfFiveNumbers\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb

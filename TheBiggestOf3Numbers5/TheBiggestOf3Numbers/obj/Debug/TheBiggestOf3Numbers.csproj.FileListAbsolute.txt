@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOf3Numbers\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOf3Numbers\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOf3Numbers\TheBiggestOf3Numbers\bin\Debug\TheBiggestOf3Numbers.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOf3Numbers\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TheBiggestOf3Numbers\TheBiggestOf3Numbers\obj\Debug\TheBiggestOf3Numbers.pdb
